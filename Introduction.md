@@ -7,7 +7,7 @@ This folder will contain the explanation of the usage of some GIT commands.
 
 * to reapeat the lecture material
 * to have a practice with GIT and its commands
-* to jave apractice with MarkDown
+* to have some practice with MarkDown
 * to make Timur busy 
 * something else probably, but nothing pops up in my head yet
 
