@@ -8,7 +8,7 @@ This folder will contain the explanation of the usage of some GIT commands.
 * to reapeat the lecture material
 * to have a practice with GIT and its commands
 * to have some practice with MarkDown
-* to make Timur busy 
+* to keep Timur busy 
 * something else probably, but nothing pops up in my head yet
 
 <font size="1"> Remark: this project was written in english not because I am showing off, but because my macbook has danish keyboard and it is a little bit of suffering to use it in russian.</font>
