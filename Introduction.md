@@ -23,6 +23,8 @@ The **_git init_** command is the first command that you will run on Git. The gi
 
 The **_git status_** command is used to display the state of the repository and staging area. It allows us to see the tracked, untracked files and changes. This command will not show any commit records or information. Mostly, it is used to display the state between Git Add and Git commit command.
 
+![200.gif](200.gif)
+
 # GIT DIFF
 
 The **_git diff_** command shows the differences between the files in two commits or between your current repository and a previous commit. This command displays changes denotes by headers and metadata for the files that have changed.
