@@ -37,6 +37,7 @@ The **_git diff_** command shows the differences between the files in two commit
 
 **_Git log_** is a utility tool to review and read a history of everything that happens to a repository. Multiple options can be used with a git log to make history more specific. Generally, the git log is a record of commits.
 
+New line fr the conflict.
 
 # GIT ADD
 
