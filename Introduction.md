@@ -39,6 +39,7 @@ The **_git diff_** command shows the differences between the files in two commit
 
 ![Log](log.gif)
 
+And 1 line over here.
 
 # GIT ADD
 
