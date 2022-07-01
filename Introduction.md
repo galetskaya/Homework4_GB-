@@ -24,6 +24,8 @@ The **_git init_** command is the first command that you will run on Git. The gi
 The **_git status_** command is used to display the state of the repository and staging area. It allows us to see the tracked, untracked files and changes. This command will not show any commit records or information. Mostly, it is used to display the state between Git Add and Git commit command.
 
 ![200.gif](200.gif)
+How do I exit git status?
+1 Answer: q
 
 # GIT DIFF
 
@@ -41,6 +43,7 @@ The **_git diff_** command shows the differences between the files in two commit
 The **_git add_** command adds new or changed files in your working directory to the Git staging area. git add is an important command - without it, no git commit would ever do anything. Sometimes, git add can have a reputation for being an unnecessary step in development.
 
 The new line to create a conflict.
+![Earth](earth.gif)
 
 # GIT COMMIT
 
@@ -58,3 +61,6 @@ The command should be used as git commit -m "comment"</font>
 # GIT CHECKOUT
 
 In Git, the term checkout is used for **the act of switching between different versions of a target entity**. The git checkout command is used to switch between branches in a repository. Be careful with your staged files and commits when switching between branches.
+
+
+Remember, all git pull does is run git fetch and then git merge (or git fetch and then git rebase ). It's the git checkout that is messing with the time-stamps on your work-tree files. Git doesn't really use or need the work-tree: that's for you.
